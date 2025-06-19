@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-ldnl.vercel.app](https://react-portfolio-ldnl.vercel.app)
+- 👨‍💻 My portfolio [https://react-portfolio-ldnl.vercel.app](https://react-portfolio-ldnl.vercel.app)
 
 - 📫 How to reach me **dulalyganguly@gmail.com**
 
