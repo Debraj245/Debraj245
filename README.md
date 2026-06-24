@@ -14,7 +14,6 @@ Show Image
 &nbsp;
 <img src="https://img.shields.io/badge/🎓 B.Tech-CSE%20AI%20%26%20ML-06b6d4?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/💼 Status-Open%20to%20Opportunities-00D9A5?style=for-the-badge"/>
 </div>
 
 <br/>
