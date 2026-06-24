@@ -1,8 +1,21 @@
 <div align="center">
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:a855f7,100:06b6d4&height=200&section=header&text=Debraj%20Ganguly&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Builder%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18&animation=fadeIn"/>
+<!-- ANIMATED TYPING -->
+Show Image
 
-<!-- Animated typing header -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Debraj+Ganguly+%F0%9F%91%8B;B.Tech+CSE+%7C+AI+%26+ML+Specialization;Building+RAG+Pipelines+%26+AI+Agents;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<br/>
+<!-- STATUS BADGES -->
+<a href="https://react-portfolio-ldnl.vercel.app">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-Live-6C63FF?style=for-the-badge&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/📍 Location-Kolkata%2C%20India-a855f7?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎓 B.Tech-CSE%20AI%20%26%20ML-06b6d4?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/💼 Status-Open%20to%20Opportunities-00D9A5?style=for-the-badge"/>
+</div>
 
 <br/>
 
