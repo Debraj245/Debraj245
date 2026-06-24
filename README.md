@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Debraj+Ganguly+Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Debraj+Ganguly+%F0%9F%91%8B;B.Tech+CSE+%7C+AI+%26+ML+Specialization;Building+RAG+Pipelines+%26+AI+Agents;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
