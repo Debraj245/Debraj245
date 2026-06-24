@@ -21,7 +21,7 @@ debraj = {
     "name":        "Debraj Ganguly",
     "role":        "B.Tech CSE (AI & ML) Student",
     "location":    "Kolkata, India 🇮🇳",
-    "currently":   ["RAG Agent Pipeline", "TCS NQT Prep", "DSA Practice"],
+    "currently":   ["RAG Agent Pipeline"],
     "stack":       ["Python", "FastAPI", "LlamaIndex", "Qdrant", "Gemini"],
     "learning":    ["AI Agents", "Vector Databases", "Async Workflows"],
     "fun_fact":    "I debug code at night and lift weights in the morning 💪",
